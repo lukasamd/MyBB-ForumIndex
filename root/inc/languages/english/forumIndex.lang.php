@@ -1,14 +1,1 @@
-<?php
-$l['forumIndexPageTitle']="{1} - Index";
-$l['forumIndexToday']="Today";
-$l['forumIndexBy']="By";
-$l['forumIndexMessageFooter']="<br />Can sort the list with this form below.<br /><br />
-Team {1}";
-$l['forumIndexSortByTitle']="Sort by: Title";
-$l['forumIndexSortByDate']="Sort by: Creation Time";
-$l['forumIndexSortByLastpost']="Sort by: Last Post";
-$l['forumIndexSortASC']="Order: Ascending";
-$l['forumIndexSortDESC']="Order: Descending";
-$l['forumIndexSubmit']="OK";
-
-?>
+<?php/** * This file is part of Thread Index plugin for MyBB. * Copyright (C) Lukasz Tkacz <lukasamd@gmail.com> * * This program is free software: you can redistribute it and/or modify * it under the terms of the GNU Lesser General Public License as published by * the Free Software Foundation, either version 3 of the License, or * (at your option) any later version. * * This program is distributed in the hope that it will be useful, * but WITHOUT ANY WARRANTY; without even the implied warranty of * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the * GNU Lesser General Public License for more details. * * You should have received a copy of the GNU Lesser General Public License * along with this program.  If not, see <http://www.gnu.org/licenses/>. * */$l['forumIndexPageTitle']="{1} - Index";$l['forumIndexToday']="Today";$l['forumIndexBy']="By";$l['forumIndexMessageFooter']="<br />Can sort the list with this form below.<br /><br />Team {1}";$l['forumIndexSortByTitle']="Sort by: Title";$l['forumIndexSortByDate']="Sort by: Creation Time";$l['forumIndexSortByLastpost']="Sort by: Last Post";$l['forumIndexSortASC']="Order: Ascending";$l['forumIndexSortDESC']="Order: Descending";$l['forumIndexSubmit']="OK";?>
